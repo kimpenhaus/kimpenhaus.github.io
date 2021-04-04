@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on kimpenhaus.de</title>
-    <link>http://kimpenhaus.de/tags/</link>
-    <description>Recent content in Tags on kimpenhaus.de</description>
+    <title>Tags on [mk]</title>
+    <link>//kimpenhaus.de/tags/</link>
+    <description>Recent content in Tags on [mk]</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="http://kimpenhaus.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language><atom:link href="//kimpenhaus.de/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

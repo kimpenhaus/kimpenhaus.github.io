@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://kimpenhaus.de/categories/</loc>
+    <loc>//kimpenhaus.de/</loc>
   </url><url>
-    <loc>http://kimpenhaus.de/</loc>
+    <loc>//kimpenhaus.de/categories/</loc>
   </url><url>
-    <loc>http://kimpenhaus.de/tags/</loc>
+    <loc>//kimpenhaus.de/tags/</loc>
   </url>
 </urlset>
